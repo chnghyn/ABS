@@ -4,7 +4,10 @@ def hello():
     print('Hello there')
 
 hello()
+hello()
+hello()
 
+print()
 def plusOne(number):
     return number + 1
 
